@@ -1,0 +1,4 @@
+
+[2023-12-01T11:28:22.650] [ERROR] [Default] - Error occurred: 无效的token或者token已经过期~, 状态码: -1005, 请求地址: /file/avatar, 请求方式: POST, 请求参数: {"name":"zimo","password":"123"}
+[2023-12-01T11:28:58.484] [ERROR] [Default] - Error occurred: 无效的token或者token已经过期~, 状态码: -1005, 请求地址: /file/avatar, 请求方式: POST, 请求参数: {"name":"zimo","password":"123"} ,body: undefined
+[2023-12-01T11:29:41.312] [ERROR] [Default] - Error occurred: 无效的token或者token已经过期~, 状态码: -1005, 请求地址: /file/avatar, 请求方式: POST, 请求参数: {"name":"zimo","password":"123"} ,参数类型: multipart/form-data; boundary=--------------------------856239997856902888861096
