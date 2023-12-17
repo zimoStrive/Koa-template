@@ -4,9 +4,9 @@ const { MYSQL_HOST, MYSQL_PORT } = require('./service')
 const development = {
   host: MYSQL_HOST,
   port: MYSQL_PORT,
-  database: 'coderhub',
-  user: 'root',
-  password: 'root',
+  database: 'xxxx',
+  user: 'xxx',
+  password: 'xxx',
   connectionLimit: 5,
 }
 
@@ -14,9 +14,9 @@ const development = {
 const production = {
   host: MYSQL_HOST,
   port: MYSQL_PORT,
-  database: 'coderhub',
-  user: 'root',
-  password: 'root',
+  database: 'xxxx',
+  user: 'xxx',
+  password: 'xxx',
   connectionLimit: 10,
 }
 
